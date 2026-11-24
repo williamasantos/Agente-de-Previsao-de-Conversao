@@ -1,0 +1,40 @@
+{
+  "atributos": [
+    "Age",
+    "Income",
+    "AdSpend",
+    "ClickThroughRate",
+    "ConversionRate",
+    "WebsiteVisits",
+    "PagesPerVisit",
+    "TimeOnSite",
+    "SocialShares",
+    "EmailOpens",
+    "EmailClicks",
+    "PreviousPurchases",
+    "LoyaltyPoints",
+    "Gender_Male",
+    "CampaignChannel_PPC",
+    "CampaignChannel_Referral",
+    "CampaignChannel_SEO",
+    "CampaignChannel_Social Media",
+    "CampaignType_Consideration",
+    "CampaignType_Conversion",
+    "CampaignType_Retention"
+  ],
+  "numericas": [
+    "Age",
+    "Income",
+    "AdSpend",
+    "ClickThroughRate",
+    "ConversionRate",
+    "WebsiteVisits",
+    "PagesPerVisit",
+    "TimeOnSite",
+    "SocialShares",
+    "EmailOpens",
+    "EmailClicks",
+    "PreviousPurchases",
+    "LoyaltyPoints"
+  ]
+}
